@@ -111,7 +111,7 @@ I am interested in collaborating on:
 ## 📫 Contact Me
 
 📧 Email: umaiirpk@gmail.com  
-🔗 LinkedIn: linkedin.com/in/umaiirpk  
+🔗 LinkedIn: https://linkedin.com/in/umaiirpk  
 🌐 GitHub: https://github.com/Muhammad-Umair-Physicist
 
 ---
